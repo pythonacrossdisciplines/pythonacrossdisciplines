@@ -1,7 +1,15 @@
-Python Across Disciplines
-- a book by John Gordon
+![PAD Book Cover](Images/BookCoverFull.png)
 
-<!---
-pythonacrossdisciplines/pythonacrossdisciplines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Contents at a Glance
+
+1. Introduction
+2. Disciplinarity
+3. Python Fundamentals
+4. Intermediate Python for Disciplinary Challenges
+5. Advanced Python for Cross-Disciplinary Projects
+6. Encyclopedia of Python Across Disciplines
+
+Solutions  
+Appendices  
+Glossary  
+Index  
